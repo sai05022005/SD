@@ -5,6 +5,6 @@ app.get('/',(req,res)=>{
 }
 );
 app.listen(30,()=>{
-  consol.log("server is at 30");
+  console.log("server is at 30");
 }
            );
